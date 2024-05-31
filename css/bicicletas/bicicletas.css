@@ -48,7 +48,7 @@
   content: "";
   display: block;
   width: 12px;
-  right: 8px;
+  height: 8px;
   background-color: var(--cor-p1);
   margin-bottom: 8px;
 }
